@@ -1,5 +1,8 @@
-# dio-csharp
-Estudos de C# feitos na plataforma DIO
+## Links
+
+[Documentação do .NET](https://docs.microsoft.com/pt-br/dotnet/ "Documentação do .NET")
+[Download .NET](https://dotnet.microsoft.com/download/ "Download .NET")
+[Visual Studio Code](https://code.visualstudio.com/ "Visual Studio Code")
 
 ## Introdução ao CLI .Net
 #### Criando um novo projeto
@@ -13,3 +16,4 @@ dotnet new console -n Revisao
 ```bash
 dotnet run
 ```
+[1]: https://docs.microsoft.com/pt-br/dotnet/ "Documentação do .NET"

@@ -1,0 +1,15 @@
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\ChaveRef\bin\Debug\net6.0\ChaveRef.exe
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\ChaveRef\bin\Debug\net6.0\ChaveRef.deps.json
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\ChaveRef\bin\Debug\net6.0\ChaveRef.runtimeconfig.json
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\ChaveRef\bin\Debug\net6.0\ChaveRef.dll
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\ChaveRef\bin\Debug\net6.0\ChaveRef.pdb
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\ChaveRef\obj\Debug\net6.0\ChaveRef.csproj.AssemblyReference.cache
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\ChaveRef\obj\Debug\net6.0\ChaveRef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\ChaveRef\obj\Debug\net6.0\ChaveRef.AssemblyInfoInputs.cache
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\ChaveRef\obj\Debug\net6.0\ChaveRef.AssemblyInfo.cs
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\ChaveRef\obj\Debug\net6.0\ChaveRef.csproj.CoreCompileInputs.cache
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\ChaveRef\obj\Debug\net6.0\ChaveRef.dll
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\ChaveRef\obj\Debug\net6.0\refint\ChaveRef.dll
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\ChaveRef\obj\Debug\net6.0\ChaveRef.pdb
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\ChaveRef\obj\Debug\net6.0\ChaveRef.genruntimeconfig.cache
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\ChaveRef\obj\Debug\net6.0\ref\ChaveRef.dll

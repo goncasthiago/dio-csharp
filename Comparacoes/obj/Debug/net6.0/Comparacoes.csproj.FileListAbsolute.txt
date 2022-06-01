@@ -1,0 +1,15 @@
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Comparacoes\bin\Debug\net6.0\Comparacoes.exe
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Comparacoes\bin\Debug\net6.0\Comparacoes.deps.json
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Comparacoes\bin\Debug\net6.0\Comparacoes.runtimeconfig.json
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Comparacoes\bin\Debug\net6.0\Comparacoes.dll
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Comparacoes\bin\Debug\net6.0\Comparacoes.pdb
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Comparacoes\obj\Debug\net6.0\Comparacoes.csproj.AssemblyReference.cache
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Comparacoes\obj\Debug\net6.0\Comparacoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Comparacoes\obj\Debug\net6.0\Comparacoes.AssemblyInfoInputs.cache
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Comparacoes\obj\Debug\net6.0\Comparacoes.AssemblyInfo.cs
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Comparacoes\obj\Debug\net6.0\Comparacoes.csproj.CoreCompileInputs.cache
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Comparacoes\obj\Debug\net6.0\Comparacoes.dll
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Comparacoes\obj\Debug\net6.0\refint\Comparacoes.dll
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Comparacoes\obj\Debug\net6.0\Comparacoes.pdb
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Comparacoes\obj\Debug\net6.0\Comparacoes.genruntimeconfig.cache
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Comparacoes\obj\Debug\net6.0\ref\Comparacoes.dll

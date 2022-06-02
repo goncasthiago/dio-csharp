@@ -1,0 +1,15 @@
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Desafios-iniciais\bin\Debug\net6.0\Desafios-iniciais.exe
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Desafios-iniciais\bin\Debug\net6.0\Desafios-iniciais.deps.json
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Desafios-iniciais\bin\Debug\net6.0\Desafios-iniciais.runtimeconfig.json
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Desafios-iniciais\bin\Debug\net6.0\Desafios-iniciais.dll
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Desafios-iniciais\bin\Debug\net6.0\Desafios-iniciais.pdb
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Desafios-iniciais\obj\Debug\net6.0\Desafios-iniciais.csproj.AssemblyReference.cache
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Desafios-iniciais\obj\Debug\net6.0\Desafios-iniciais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Desafios-iniciais\obj\Debug\net6.0\Desafios-iniciais.AssemblyInfoInputs.cache
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Desafios-iniciais\obj\Debug\net6.0\Desafios-iniciais.AssemblyInfo.cs
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Desafios-iniciais\obj\Debug\net6.0\Desafios-iniciais.csproj.CoreCompileInputs.cache
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Desafios-iniciais\obj\Debug\net6.0\Desafios-iniciais.dll
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Desafios-iniciais\obj\Debug\net6.0\refint\Desafios-iniciais.dll
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Desafios-iniciais\obj\Debug\net6.0\Desafios-iniciais.pdb
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Desafios-iniciais\obj\Debug\net6.0\Desafios-iniciais.genruntimeconfig.cache
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Desafios-iniciais\obj\Debug\net6.0\ref\Desafios-iniciais.dll

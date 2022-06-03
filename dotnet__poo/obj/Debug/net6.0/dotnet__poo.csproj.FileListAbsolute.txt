@@ -1,0 +1,15 @@
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\dotnet__poo\bin\Debug\net6.0\dotnet__poo.exe
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\dotnet__poo\bin\Debug\net6.0\dotnet__poo.deps.json
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\dotnet__poo\bin\Debug\net6.0\dotnet__poo.runtimeconfig.json
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\dotnet__poo\bin\Debug\net6.0\dotnet__poo.dll
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\dotnet__poo\bin\Debug\net6.0\dotnet__poo.pdb
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\dotnet__poo\obj\Debug\net6.0\dotnet__poo.csproj.AssemblyReference.cache
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\dotnet__poo\obj\Debug\net6.0\dotnet__poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\dotnet__poo\obj\Debug\net6.0\dotnet__poo.AssemblyInfoInputs.cache
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\dotnet__poo\obj\Debug\net6.0\dotnet__poo.AssemblyInfo.cs
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\dotnet__poo\obj\Debug\net6.0\dotnet__poo.csproj.CoreCompileInputs.cache
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\dotnet__poo\obj\Debug\net6.0\dotnet__poo.dll
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\dotnet__poo\obj\Debug\net6.0\refint\dotnet__poo.dll
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\dotnet__poo\obj\Debug\net6.0\dotnet__poo.pdb
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\dotnet__poo\obj\Debug\net6.0\dotnet__poo.genruntimeconfig.cache
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\dotnet__poo\obj\Debug\net6.0\ref\dotnet__poo.dll

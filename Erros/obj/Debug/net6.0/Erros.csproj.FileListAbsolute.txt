@@ -1,0 +1,15 @@
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Erros\bin\Debug\net6.0\Erros.exe
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Erros\bin\Debug\net6.0\Erros.deps.json
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Erros\bin\Debug\net6.0\Erros.runtimeconfig.json
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Erros\bin\Debug\net6.0\Erros.dll
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Erros\bin\Debug\net6.0\Erros.pdb
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Erros\obj\Debug\net6.0\Erros.csproj.AssemblyReference.cache
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Erros\obj\Debug\net6.0\Erros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Erros\obj\Debug\net6.0\Erros.AssemblyInfoInputs.cache
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Erros\obj\Debug\net6.0\Erros.AssemblyInfo.cs
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Erros\obj\Debug\net6.0\Erros.csproj.CoreCompileInputs.cache
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Erros\obj\Debug\net6.0\Erros.dll
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Erros\obj\Debug\net6.0\refint\Erros.dll
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Erros\obj\Debug\net6.0\Erros.pdb
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Erros\obj\Debug\net6.0\Erros.genruntimeconfig.cache
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Erros\obj\Debug\net6.0\ref\Erros.dll

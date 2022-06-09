@@ -1,0 +1,15 @@
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Arquivos\bin\Debug\net6.0\Arquivos.exe
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Arquivos\bin\Debug\net6.0\Arquivos.deps.json
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Arquivos\bin\Debug\net6.0\Arquivos.runtimeconfig.json
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Arquivos\bin\Debug\net6.0\Arquivos.dll
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Arquivos\bin\Debug\net6.0\Arquivos.pdb
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Arquivos\obj\Debug\net6.0\Arquivos.csproj.AssemblyReference.cache
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Arquivos\obj\Debug\net6.0\Arquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Arquivos\obj\Debug\net6.0\Arquivos.AssemblyInfoInputs.cache
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Arquivos\obj\Debug\net6.0\Arquivos.AssemblyInfo.cs
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Arquivos\obj\Debug\net6.0\Arquivos.csproj.CoreCompileInputs.cache
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Arquivos\obj\Debug\net6.0\Arquivos.dll
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Arquivos\obj\Debug\net6.0\refint\Arquivos.dll
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Arquivos\obj\Debug\net6.0\Arquivos.pdb
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Arquivos\obj\Debug\net6.0\Arquivos.genruntimeconfig.cache
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Arquivos\obj\Debug\net6.0\ref\Arquivos.dll

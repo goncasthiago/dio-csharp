@@ -1,0 +1,15 @@
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Diretorios\bin\Debug\net6.0\Diretorios.exe
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Diretorios\bin\Debug\net6.0\Diretorios.deps.json
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Diretorios\bin\Debug\net6.0\Diretorios.runtimeconfig.json
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Diretorios\bin\Debug\net6.0\Diretorios.dll
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Diretorios\bin\Debug\net6.0\Diretorios.pdb
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Diretorios\obj\Debug\net6.0\Diretorios.csproj.AssemblyReference.cache
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Diretorios\obj\Debug\net6.0\Diretorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Diretorios\obj\Debug\net6.0\Diretorios.AssemblyInfoInputs.cache
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Diretorios\obj\Debug\net6.0\Diretorios.AssemblyInfo.cs
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Diretorios\obj\Debug\net6.0\Diretorios.csproj.CoreCompileInputs.cache
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Diretorios\obj\Debug\net6.0\Diretorios.dll
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Diretorios\obj\Debug\net6.0\refint\Diretorios.dll
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Diretorios\obj\Debug\net6.0\Diretorios.pdb
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Diretorios\obj\Debug\net6.0\Diretorios.genruntimeconfig.cache
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Diretorios\obj\Debug\net6.0\ref\Diretorios.dll

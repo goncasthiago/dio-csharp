@@ -1,0 +1,15 @@
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Streams\bin\Debug\net6.0\Streams.exe
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Streams\bin\Debug\net6.0\Streams.deps.json
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Streams\bin\Debug\net6.0\Streams.runtimeconfig.json
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Streams\bin\Debug\net6.0\Streams.dll
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Streams\bin\Debug\net6.0\Streams.pdb
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Streams\obj\Debug\net6.0\Streams.csproj.AssemblyReference.cache
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Streams\obj\Debug\net6.0\Streams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Streams\obj\Debug\net6.0\Streams.AssemblyInfoInputs.cache
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Streams\obj\Debug\net6.0\Streams.AssemblyInfo.cs
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Streams\obj\Debug\net6.0\Streams.csproj.CoreCompileInputs.cache
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Streams\obj\Debug\net6.0\Streams.dll
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Streams\obj\Debug\net6.0\refint\Streams.dll
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Streams\obj\Debug\net6.0\Streams.pdb
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Streams\obj\Debug\net6.0\Streams.genruntimeconfig.cache
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Streams\obj\Debug\net6.0\ref\Streams.dll

@@ -1,0 +1,15 @@
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\FileWatcher\bin\Debug\net6.0\FileWatcher.exe
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\FileWatcher\bin\Debug\net6.0\FileWatcher.deps.json
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\FileWatcher\bin\Debug\net6.0\FileWatcher.runtimeconfig.json
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\FileWatcher\bin\Debug\net6.0\FileWatcher.dll
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\FileWatcher\bin\Debug\net6.0\FileWatcher.pdb
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\FileWatcher\obj\Debug\net6.0\FileWatcher.csproj.AssemblyReference.cache
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\FileWatcher\obj\Debug\net6.0\FileWatcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\FileWatcher\obj\Debug\net6.0\FileWatcher.AssemblyInfoInputs.cache
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\FileWatcher\obj\Debug\net6.0\FileWatcher.AssemblyInfo.cs
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\FileWatcher\obj\Debug\net6.0\FileWatcher.csproj.CoreCompileInputs.cache
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\FileWatcher\obj\Debug\net6.0\FileWatcher.dll
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\FileWatcher\obj\Debug\net6.0\refint\FileWatcher.dll
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\FileWatcher\obj\Debug\net6.0\FileWatcher.pdb
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\FileWatcher\obj\Debug\net6.0\FileWatcher.genruntimeconfig.cache
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\FileWatcher\obj\Debug\net6.0\ref\FileWatcher.dll

@@ -1,0 +1,15 @@
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Desafios-II\obj\Debug\net6.0\Desafios-II.csproj.AssemblyReference.cache
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Desafios-II\obj\Debug\net6.0\Desafios-II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Desafios-II\obj\Debug\net6.0\Desafios-II.AssemblyInfoInputs.cache
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Desafios-II\obj\Debug\net6.0\Desafios-II.AssemblyInfo.cs
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Desafios-II\obj\Debug\net6.0\Desafios-II.csproj.CoreCompileInputs.cache
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Desafios-II\bin\Debug\net6.0\Desafios-II.exe
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Desafios-II\bin\Debug\net6.0\Desafios-II.deps.json
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Desafios-II\bin\Debug\net6.0\Desafios-II.runtimeconfig.json
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Desafios-II\bin\Debug\net6.0\Desafios-II.dll
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Desafios-II\bin\Debug\net6.0\Desafios-II.pdb
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Desafios-II\obj\Debug\net6.0\Desafios-II.dll
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Desafios-II\obj\Debug\net6.0\refint\Desafios-II.dll
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Desafios-II\obj\Debug\net6.0\Desafios-II.pdb
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Desafios-II\obj\Debug\net6.0\Desafios-II.genruntimeconfig.cache
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Desafios-II\obj\Debug\net6.0\ref\Desafios-II.dll

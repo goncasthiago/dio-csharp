@@ -1,0 +1,15 @@
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Csv\obj\Debug\net6.0\Csv.csproj.AssemblyReference.cache
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Csv\obj\Debug\net6.0\Csv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Csv\obj\Debug\net6.0\Csv.AssemblyInfoInputs.cache
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Csv\obj\Debug\net6.0\Csv.AssemblyInfo.cs
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Csv\obj\Debug\net6.0\Csv.csproj.CoreCompileInputs.cache
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Csv\bin\Debug\net6.0\Csv.exe
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Csv\bin\Debug\net6.0\Csv.deps.json
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Csv\bin\Debug\net6.0\Csv.runtimeconfig.json
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Csv\bin\Debug\net6.0\Csv.dll
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Csv\bin\Debug\net6.0\Csv.pdb
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Csv\obj\Debug\net6.0\Csv.dll
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Csv\obj\Debug\net6.0\refint\Csv.dll
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Csv\obj\Debug\net6.0\Csv.pdb
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Csv\obj\Debug\net6.0\Csv.genruntimeconfig.cache
+C:\Users\thiago.goncalves\Downloads\dio\dio-csharp\Csv\obj\Debug\net6.0\ref\Csv.dll

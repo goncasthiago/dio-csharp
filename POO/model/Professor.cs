@@ -5,9 +5,15 @@ namespace POO.model
     {
         public int Salario { get; set;}
 
+        public Professor(string nome, int idade, int salario) : base( nome, idade)
+        {
+            this.Salario = salario;
+            
+        }
+
         public override void Apresentar()
     {
-        WriteLine($"Olá, meu nome é  {Nome} e ganho {Salario} trabalhando na escola como professor");
+        WriteLine($"Olá, meu nome é  {this.GetNome()} e ganho {this.Salario} trabalhando na escola como professor");
     }
     }   
 }
